@@ -8,6 +8,8 @@ https://www.ukp.tu-darmstadt.de/
 
 This repository contains experimental software and is published for the sole purpose of giving additional background details on the respective publication.
 
+Don't hesitate to send us an e-mail or report an issue, if you have further questions.
+
 ## Implementations
 We include and adapt the various frameworks that we support here.
 The original code is from the following repositories:
