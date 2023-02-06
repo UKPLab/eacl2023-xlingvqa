@@ -11,11 +11,11 @@ This repository contains experimental software and is published for the sole pur
 Don't hesitate to send us an e-mail or report an issue, if you have further questions.
 
 ## Implementations
-We include and adapt the various frameworks that we support here.
+We include and adapt the various frameworks here.
 The original code is from the following repositories:
-1. [M3P](https://github.com/microsoft/M3P)
-2. [UC2](https://github.com/zmykevin/UC2/tree/master/model)
-3. [MMT-Retrieval](https://github.com/UKPLab/MMT-Retrieval)
+1. [M3P](https://github.com/microsoft/M3P) [MIT License]
+2. [UC2](https://github.com/zmykevin/UC2/tree/master/model) [MIT License]
+3. [MMT-Retrieval](https://github.com/UKPLab/MMT-Retrieval) [UKP]
 
 ## Installation
 
